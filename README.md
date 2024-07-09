@@ -40,11 +40,4 @@ python jeu_de_cartes_memoire.py
 - **Boutons supplémentaires :** Deux boutons supplémentaires sont ajoutés pour rejouer et quitter le jeu.
 
 ## Auteur
-Ce projet a été développé par [Votre Nom].
-
-## Licence
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
-
----
-
-N'hésitez pas à contribuer au projet en soumettant des pull requests ou en ouvrant des issues sur GitHub. Bon jeu !
+Ce projet a été développé par Yasmine Souiki.
